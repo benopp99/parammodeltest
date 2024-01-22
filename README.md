@@ -1,0 +1,2 @@
+# parammodeltest
+Testing parametric model.  
